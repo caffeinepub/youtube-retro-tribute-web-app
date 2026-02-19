@@ -1,0 +1,8 @@
+{
+  "frontend/src/App.tsx": "Main application component that creates the retro YouTube layout with header, sidebar, and footer surrounding an automatically-loaded TubeUnblock iframe with proper sandbox and allow attributes for full functionality.",
+  "frontend/src/components/Header.tsx": "Retro YouTube header component with classic red gradient background, logo, and non-functional search bar styled after 2005-2008 design.",
+  "frontend/src/components/Sidebar.tsx": "Gray sidebar component with navigation links and categories styled to match the original YouTube layout.",
+  "frontend/src/components/Footer.tsx": "Footer component with project disclaimer and attribution, explaining the tribute nature of the design and clarifying no affiliation with YouTube, TubeUnblock, or Google.",
+  "frontend/src/index.css": "Global styles with YouTube retro color system (red header, gray sidebar, white background) and responsive layout adjustments.",
+  "frontend/src/hooks/useQueries.ts": "Empty placeholder file as no backend queries are needed for this static tribute design."
+}
